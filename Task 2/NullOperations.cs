@@ -1,6 +1,4 @@
-﻿using System;
-
-public class NullOperations
+﻿public class NullOperations
 {
     public void PerformNullChecks()
     {
